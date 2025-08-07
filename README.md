@@ -1,4 +1,3 @@
-#### Machine learning (regression analysis such as Lasso) and deep learning analyses I have run (the Covid X-ray DeTraC algorithm https://pubmed.ncbi.nlm.nih.gov/34764548/ is developed by the lab of Mohamed Gaber) and a 3D CNN architecture for real-time image segmentation and action recognition I proposed (R2Plus1D model, PyTorch) for the analysis of multple myeloma http://dx.doi.org/10.13140/RG.2.2.29049.44644/1 in the fall of 2019 based on work by the group of Mubarak Shah https://arxiv.org/pdf/1907.08895.pdf
-
-#### I tested DeTraC (ResNet18) https://github.com/asmaa4may/DeTraC_COVId19/tree/master/python_code
+#### Machine learning and deep learning Covid X-ray DeTraC algorithm https://pubmed.ncbi.nlm.nih.gov/34764548/ developed by the lab of Mohamed Gaber; I tested DeTraC (ResNet18) https://github.com/asmaa4may/DeTraC_COVId19/tree/master/python_code
  
+### For detailed information, see: https://www.researchgate.net/publication/382850918_Analysis_of_Multiple_Myeloma_Drug_Efficacy
