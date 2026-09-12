@@ -22,8 +22,6 @@ Python packages, and R packages.
   `txttojpg.R` -- R scripts for Keras-in-R examples and a genomics
   regression analysis.
 - `reports/` -- a PDF report.
-- Hardcoded absolute paths to the original author's machine are flagged
-  with a `# EDIT:` / `% EDIT:` comment directly above them.
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
 ## About
