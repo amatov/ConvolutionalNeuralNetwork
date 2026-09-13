@@ -1,4 +1,4 @@
-## ConvolutionalNeuralNetwork
+## Convolutional Neural Network
 
 Classification and detection of multiple myeloma with deep learning.
 
