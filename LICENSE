@@ -1,46 +1,25 @@
-Convolutional Neural Network - License and Usage Notice
-===========================================================
+The following files are third-party code, tested/adapted by Alexandre Matov
+but not authored by him:
 
-Copyright (c) Alexandre Matov. All rights reserved except as granted below.
+`Training_DeTraC.m`, `Training_original_classes.m`,
+`createLgraphUsingConnections.m`, `findLayersToReplace.m`,
+`construct_dataset_B.m`, `extract_features.m`, `Pca_CXR.m`,
+`ConfusionMat_MultiClass.m`, `readAndPreprocessImage.m`, `DeTraC_model.ipynb`
+-- from the DeTraC codebase, developed by the lab of Mohamed Gaber,
+Birmingham City University:
 
-1. Scope
---------
-This repository contains MATLAB, Python, and R source code developed by
-Alexandre Matov for machine learning and deep learning classification
-experiments (convolutional neural networks, transfer learning,
-logistic/lasso regression, gradient boosting). The code depends on
-third-party MATLAB toolboxes and Python/R packages that are NOT
-included in this repository -- see DEPENDENCIES.md.
+  Abbas, A., Abdelsamea, M.M., Gaber, M.M. "Classification of COVID-19 in
+  Chest X-ray Images Using DeTraC Deep Convolutional Neural Network."
+  Applied Intelligence 51 (2021): 854-864.
+  https://github.com/asmaa4may/DeTraC_COVId19
 
-2. Permitted use
------------------
-Permission is granted to use, copy, and modify the code in this repository
-free of charge for research and educational purposes, provided that:
+`cnn.py` is the CNNModule class from the DeepChem library
+(deepchem.models.torch_models).
 
-  a) Any resulting publication, presentation, or derivative work cites
-     the relevant publication referenced in README.md;
-  b) This notice is retained in copies or substantial portions of the
-     code.
+`DeepLearning_Keras.py`, `LogisticRegressionExample.py`,
+`XGBoost_Model_test.py`, `kerasMNISTconvnet.R` are adapted from standard
+public tutorial/example code for Keras, scikit-learn, XGBoost, and
+Keras-in-R, respectively -- not original work.
 
-Commercial use, redistribution, or incorporation into a commercial
-product or service requires prior written permission from Alexandre Matov
-(alexandre.matov@gmail.com).
-
-3. No warranty
----------------
-This software is provided "as is", without warranty of any kind, express
-or implied, including but not limited to the warranties of
-merchantability, fitness for a particular purpose, and noninfringement.
-In no event shall the author be liable for any claim, damages, or other
-liability arising from the use of this software.
-
-4. Third-party components
---------------------------
-This source code depends on MATLAB toolboxes (Deep Learning, including
-the ResNet-18 and AlexNet pretrained network add-ons; Statistics and
-Machine Learning; Image Processing) and third-party Python/R packages
-(deepchem, PyTorch, Keras/TensorFlow, scikit-learn, XGBoost, glmnet,
-imager, readxl, and others), none of which are bundled in this
-repository and which are subject to their own license terms -- see
-DEPENDENCIES.md. DeTraC is from Birmingham City University:
-https://github.com/asmaa4may/DeTraC_COVId19
+`CNN_test.py`, `testMNISTconvnet.R`, `mnist_convet.R`, `regressionUmiseq.R`,
+`txttojpg.R` are code I wrote.
