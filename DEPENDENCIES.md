@@ -1,8 +1,8 @@
 # Dependencies
 
-## MATLAB
+## Matlab
 
-No specific MATLAB version is recorded. The `.m` scripts use:
+No specific Matlab version is recorded. The `.m` scripts use:
 
 - **Deep Learning Toolbox** -- `trainNetwork`, `layerGraph`,
   `trainingOptions`, `imageDatastore` (`Training_DeTraC.m`,

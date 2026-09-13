@@ -2,9 +2,9 @@
 
 ## Quick start
 
-This repository contains MATLAB, Python, and R scripts for machine
+This repository contains Matlab, Python, and R scripts for machine
 learning and deep learning classification experiments. See
-[DEPENDENCIES.md](DEPENDENCIES.md) for the required MATLAB toolboxes,
+[DEPENDENCIES.md](DEPENDENCIES.md) for the required Matlab toolboxes,
 Python packages, and R packages.
 
 ## Repository contents
@@ -12,7 +12,7 @@ Python packages, and R packages.
 - `Training_DeTraC.m`, `Training_original_classes.m`,
   `createLgraphUsingConnections.m`, `findLayersToReplace.m`,
   `construct_dataset_B.m`, `extract_features.m`, `Pca_CXR.m`,
-  `ConfusionMat_MultiClass.m`, `readAndPreprocessImage.m` -- MATLAB
+  `ConfusionMat_MultiClass.m`, `readAndPreprocessImage.m` -- Matlab
   deep-learning classifier training and feature analysis.
 - `DeTraC_model.ipynb` -- a Python/TensorFlow-Keras ResNet50
   classification notebook.
