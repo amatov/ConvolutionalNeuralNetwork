@@ -30,6 +30,6 @@ Python packages, and R packages.
 
 ## About
 
-I tested several deep learning and machine learning classification approaches (Keras/TensorFlow, PyTorch/DeepChem, scikit-learn, XGBoost) for multiple myeloma drug-efficacy classification, including the DeTraC COVID-19 chest X-ray classification algorithm (ResNet18) developed by the lab of Mohamed Gaber; for detailed information, see: https://www.researchgate.net/publication/382850918_Analysis_of_Multiple_Myeloma_Drug_Efficacy
+I tested several deep learning and machine learning classification approaches (Keras/TensorFlow, PyTorch/DeepChem, scikit-learn, XGBoost) for multiple myeloma drug-efficacy classification, including the DeTraC COVID-19 chest X-ray classification algorithm (ResNet18) developed by the Gaber lab; for detailed information, see: https://www.researchgate.net/publication/382850918_Analysis_of_Multiple_Myeloma_Drug_Efficacy
 
-Method from the lab of Mohamed Gaber - Asmaa Abbas, Mohammed M. Abdelsamea, Mohamed Medhat Gaber "Classification of COVID-19 in Chest X-ray Images Using DeTraC Deep Convolutional Neural Network" (2021), https://pubmed.ncbi.nlm.nih.gov/34764548/; code: https://github.com/asmaa4may/DeTraC_COVId19/tree/master/python_code
+Method from the Gaber lab - Asmaa Abbas, Mohammed M. Abdelsamea, Mohamed Medhat Gaber "Classification of COVID-19 in Chest X-ray Images Using DeTraC Deep Convolutional Neural Network" (2021), https://pubmed.ncbi.nlm.nih.gov/34764548/; code: https://github.com/asmaa4may/DeTraC_COVId19/tree/master/python_code
